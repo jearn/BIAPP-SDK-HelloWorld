@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdkExtension
+	xmlns="http://www.sap.com/bi/zen/sdk"
+	id="com.github.jearn.helloworld"
+	title="Design Studio SDK Extension Hello World"
+	version="16.1"
+	vendor="com.github.jearn">
+	<component
+		id="HelloWorld"
+		title="Hello World"
+		icon="res/com.github.jearn.helloworld/component.png"
+		handlerType="div"
+		modes="commons m"    
+		databound="true">
+		<jsInclude>res/com.github.jearn.helloworld/js/component.js</jsInclude>
+		<initialization>
+			<defaultValue property="LEFT_MARGIN">40</defaultValue>
+			<defaultValue property="TOP_MARGIN">40</defaultValue>
+			<defaultValue property="WIDTH">100</defaultValue>
+			<defaultValue property="HEIGHT">50</defaultValue>
+		</initialization>
+	</component>
+</sdkExtension>
