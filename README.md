@@ -6,4 +6,4 @@ Prerequirements for this example can be found in https://github.com/jearn/BIAPP-
 Folder step1 contains a minimum component runnable in DesignStudio 1.6.
 This could be used to cretae a new component via copying and less changes.
 
-A How to will be created soon on http://jearn.net16.net/biapp/HelloWorld.
+A How to will be created soon on http://jearn.net16.net/biapp/biapp-HelloWorld.html.
