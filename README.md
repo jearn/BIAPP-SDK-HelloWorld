@@ -1,4 +1,4 @@
-# biapp-HelloWorld
+# BIAPP-SDK-HelloWorld
 A simple HelloWorld SAP BIAPP SDK Extension.
 
 Prerequirements for this example can be found in <a href="https://github.com/jearn/BIAPP-SDK-Extension">repository BIAPP-SDK-Extension</a> and are described in <a href="http://jearn.net16.net/biapp/BIAPP-SDK-Extension/en.html">How to BIAPP-SDK-Extension</a>.
